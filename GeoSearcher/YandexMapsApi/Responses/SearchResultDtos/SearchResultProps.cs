@@ -2,6 +2,6 @@
 {
     public class SearchResultProps
     {
-        public ResponseMetaData Properties { get; set; }
+        public ResponseMetaData ResponseMetaData { get; set; }
     }
 }
